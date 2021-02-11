@@ -11,3 +11,5 @@
 
 ## Week 2
 * [MPI-HelloWorld](mpi-helloworld.md)
+- [Stanford CS149](http://cs149.stanford.edu/winter19/)
+
