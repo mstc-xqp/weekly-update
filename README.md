@@ -12,6 +12,6 @@
 ## Week 2
 * [MPI基础例子](mpi基础例子.md)
 - [Stanford CS149](http://cs149.stanford.edu/winter19/)
-* [openmp基础例子.md](openmp基础例子.md)
+* [openmp基础例子](openmp基础例子.md)
 
 
