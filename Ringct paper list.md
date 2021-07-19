@@ -11,3 +11,7 @@ Multiple ring signature algorithms exist and they might be confusing at first. H
 
 #python ringct performance
  * [Distributed Trust, a Blockchain Election Scheme](https://informatica.vu.lt/journal/INFORMATICA/article/1213/read#j_infor440_ref_028) - Antonio - 2021
+
+#[RingCT 3.0 for Blockchain Confidential Transaction:
+Shorter Size and Stronger Security](https://eprint.iacr.org/2019/508.pdf) - Tsz Hon Yuen - 2019
+
