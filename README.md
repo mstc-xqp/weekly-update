@@ -14,4 +14,10 @@
 - [Stanford CS149](http://cs149.stanford.edu/winter19/)
 * [openmp基础例子](openmp基础例子.md)
 
+## Keep-Learning
+* [Ringct paper list](Ringct paper list.md)
+* [multi-gpa programming](multi-gpa programming.md)
+* [5g+iot](5g+iot.md)
+* [ecc加速](ecc.md)
+* [cpp基础](cpp_learing.md)
 
