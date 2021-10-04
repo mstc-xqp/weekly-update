@@ -15,3 +15,13 @@ Multiple ring signature algorithms exist and they might be confusing at first. H
 #[RingCT 3.0 for Blockchain Confidential Transaction:
 Shorter Size and Stronger Security](https://eprint.iacr.org/2019/508.pdf) - Tsz Hon Yuen - 2019
 
+
+#Lattice
+Advanced Lattice Sieving on GPUs with Tensor Cores](https://eprint.iacr.org/2021/141.pdf)
+Efficient Parallelism of Post-Quantum Signature Scheme SPHINCS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9095410)
+Shorter Size and Stronger Security](https://eprint.iacr.org/2019/508.pdf)
+Shorter Size and Stronger Security](https://eprint.iacr.org/2019/508.pdf)
+Shorter Size and Stronger Security](https://eprint.iacr.org/2019/508.pdf)
+
+
+
