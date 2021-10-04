@@ -17,10 +17,18 @@ Shorter Size and Stronger Security](https://eprint.iacr.org/2019/508.pdf) - Tsz 
 
 
 ##Lattice
-*[Advanced Lattice Sieving
+* [Advanced Lattice Sieving
 on GPUs with Tensor Cores](https://eprint.iacr.org/2021/141.pdf)
-[Efficient Parallelism of Post-Quantum 
-*Signature Scheme SPHINCS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9095410)
+* [Efficient Parallelism of Post-Quantum 
+Signature Scheme SPHINCS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9095410)
 
+* [All the Polynomial Multiplication
+You Need on RISC-V]
 
+##GPU 
+
+* [Efficient Computing of Deep Neural
+Networks](http://www.cse.cuhk.edu.hk/~byu/CMSC5743/2020Fall/index.html)
+
+* []
 
