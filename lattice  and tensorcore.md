@@ -26,3 +26,8 @@ Efficient GEMM on GPUs] (https://ceca.pku.edu.cn/docs/20190228151843787075.pdf)
 
 
 https://eprint.iacr.org/2021/173.pdf
+
+
+
+https://lazzzaro.github.io/2020/11/07/crypto-%E6%A0%BC%E5%AF%86%E7%A0%81/index.html
+https://eprint.iacr.org/2021/545
