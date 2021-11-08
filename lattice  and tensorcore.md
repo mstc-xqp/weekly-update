@@ -31,3 +31,15 @@ https://eprint.iacr.org/2021/173.pdf
 
 https://lazzzaro.github.io/2020/11/07/crypto-%E6%A0%BC%E5%AF%86%E7%A0%81/index.html
 https://eprint.iacr.org/2021/545
+
+
+CHAMELEON: ADAPTIVE CODE OPTIMIZATION FOR EXPEDITED DEEP NEURAL NETWORK COMPILATION
+TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
+Ansor: Generating High-Performance Tensor Programs for Deep Learning
+
+EGEMM-TC: Accelerating Scientific Computing on Tensor Cores with Extended Precision
+
+FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System
+
+https://on-demand.gputechconf.com/gtc-cn/2018/video/8303/
+
